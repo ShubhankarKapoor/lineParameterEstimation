@@ -7,7 +7,7 @@ The main script to run this project is `main.m`. Please refer to this script to 
 
 ## Citation
 If you use this code in your work, please cite the following paper: 
-Estimation of Distribution Grid Line Parameters Using Smart Meter Data with Missing Measurements
+[Estimation of Distribution Grid Line Parameters Using Smart Meter Data with Missing Measurements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4882259)
 
 ```
 @article{kapoor4882259estimation,
